@@ -14,11 +14,12 @@ Email: yyan@szu.edu.cn
 [//]: <> (This is also a comment.)
 
 Introduction:
-This is a full semester doctoral level class: Advanced Topics in Computer Vision: Deep Learning and Object Detection,
-the class consists of 17 weeks.  Goals:
+This is a full semester doctoral level class. Advanced Topics in Computer Vision: Deep Learning and Object Detection,
+the class consists of 17 weeks.  
+
+Goals:
 
 Teaching Plans:
-
 
 Final Projects:
 
